@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-04-hooks-images"]=this["webpackJsonpgoit-react-hw-04-hooks-images"]||[]).push([[0],{11:function(t,e,o){},4:function(t,e,o){"use strict";o.r(e);var s=o(2),n=o(0),c=o.n(n),i=o(3),a=o.n(i);o(10),o(11);a.a.render(Object(s.jsx)(c.a.StrictMode,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.7b194f0a.chunk.js.map
